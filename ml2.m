@@ -8,7 +8,7 @@
 % sentences', which contains the text files. Also have maxdim.m and 
 % first.m files on the same directory.
 % If 'dir' is runned, the following must be returned in order to run:
-% hwk2.m
+% ml2.m
 % first.m
 % maxdim.m
 % senteiment labelled sentences
